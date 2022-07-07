@@ -1,1 +1,1 @@
-# Power-BI
+The project is about designing and developing an end to end business solution for companies. This will help to get information about KPIs like sales, revenue, profit and returns, compares their regional performances, analyze product level trends, forecasts future profits and use the data to identify their high value customers.
